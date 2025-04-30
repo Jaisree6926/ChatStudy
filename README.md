@@ -1,6 +1,5 @@
 # Ex. No:1b 			Study of Client Server Chat Applications
-## NAME: JAISREE B
-## REG NO:212224230100
+
 ## Aim: 
 To perform a study on Client Server Chat Applications
 ## Introduction:
